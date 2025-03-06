@@ -1,5 +1,5 @@
 # 马斯克Grok国内免费使用指南
->更新时间: 2025-03-04
+>更新时间: 2025-03-06
 >
 > **无需翻墙，超详细教你免费体验马斯克Grok、GPT、DeepSeek、Claude - 2025最新版**
 
@@ -21,7 +21,7 @@
 
 | 镜像站地址                | 支持模型              | 免费额度 | 注册要求  | 稳定性 | 亮点功能            |
 |---------------------------|-----------------------|----------|-----------|--------|---------------------|
-| [chat.yixiaai.com](https://chat.yixiaai.com) | Grok, GPT-4, DeepSeek, Claude | 有       | 无需注册  | ★★★★★  | Grok中文版+绘图功能 |
+| [chat.yixiaai.com](https://chat.yixiaai.com) | Grok, GPT-4, DeepSeek, Claude 3.7 Sonnet | 有       | 无需注册  | ★★★★★  | Grok中文版+绘图功能 |
 | [chat.lify.vip](https://chat.lify.vip)       | GPT-4, DeepSeek, Midjourney   | 有       | 无需注册  | ★★★★★  | 接近官网体验       |
 | [lanjing.ai](https://lanjing.ai)             | GPT-4, GPT-4o                | 有       | 无需注册  | ★★★★☆  | 详细AI使用教程     |
 | [cgn.lify.vip](https://cgn.lify.vip)         | GPT-4, GPT-3.5              | 有       | 无需注册  | ★★★★☆  | 备用选择           |
