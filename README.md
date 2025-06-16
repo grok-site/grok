@@ -1,9 +1,9 @@
 # 马斯克Grok国内免费使用指南
->更新时间: 2025-03-07
+>更新时间: 2025-06-16
 >
 > **无需翻墙，超详细教你免费体验马斯克Grok、GPT、DeepSeek、Claude - 2025最新版**
 
-**[立即解锁Grok](https://chat.yixiaai.com)**  
+**[立即解锁Grok](https://xsimplechat.com)**  
 
 ---
 
@@ -21,12 +21,11 @@
 
 | 镜像站地址                | 支持模型              | 免费额度 | 注册要求  | 稳定性 | 亮点功能            |
 |---------------------------|-----------------------|----------|-----------|--------|---------------------|
-| [chat.yixiaai.com](https://chat.yixiaai.com) | Grok, GPT-4, DeepSeek, Claude 3.7 Sonnet | 有       | 无需注册  | ★★★★★  | Grok中文版+绘图功能 |
-| [chat.lify.vip](https://chat.lify.vip)       | GPT-4, DeepSeek, Midjourney   | 有       | 无需注册  | ★★★★★  | 接近官网体验       |
+| [xsimplechat.com](https://xsimplechat.com) | Grok, GPT-4, DeepSeek, Claude 3.7 Sonnet | 有       | 无需注册  | ★★★★★  | Grok中文版+绘图功能 |
+| [chat.lanjingai.org](https://chat.lanjingai.org)       | GPT-4, DeepSeek, Midjourney   | 有       | 无需注册  | ★★★★★  | 接近官网体验       |
 | [lanjing.ai](https://lanjing.ai)             | GPT-4, GPT-4o                | 有       | 无需注册  | ★★★★☆  | 详细AI使用教程     |
 | [cgn.lify.vip](https://cgn.lify.vip)         | GPT-4, GPT-3.5              | 有       | 无需注册  | ★★★★☆  | 备用选择           |
 
-*（视觉提示：表格表头为鲜红 #e74c3c，背景为深蓝灰 #34495e，链接为橙黄 #ffcb47）*
 
 ---
 
@@ -42,7 +41,7 @@
 ## 马斯克Grok国内免费使用教程（超详细）
 
 1. **挑选镜像站**  
-   推荐[chat.yixiaai.com](https://chat.yixiaai.com)，支持Grok、GPT、DeepSeek、Claude。
+   推荐[xsimplechat.com](https://xsimplechat.com)，支持Grok、GPT、DeepSeek、Claude。
 
 2. **零门槛进入**  
    无需注册或VPN，直接访问对话界面。
