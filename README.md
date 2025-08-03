@@ -21,8 +21,8 @@
 
 | 镜像站地址                | 支持模型              | 免费额度 | 注册要求  | 稳定性 | 亮点功能            |
 |---------------------------|-----------------------|----------|-----------|--------|---------------------|
-| [xsimplechat.com](https://xsimplechat.com) | Grok, GPT-4, DeepSeek, Claude 3.7 Sonnet | 有       | 无需注册  | ★★★★★  | Grok中文版+绘图功能 |
-| [chat.lanjingai.org](https://chat.lanjingai.org)       | GPT-4, DeepSeek, Midjourney   | 有       | 无需注册  | ★★★★★  | 接近官网体验       |
+| [xsimplechat.com](https://xsimplechat.com) | Grok系列, GPT系列, DeepSeek系列, Claude系列等模型 | 有       | 无需注册  | ★★★★★  | Grok中文版+绘图功能 |
+| [chat.lanjingai.org](https://chat.lanjingai.org)       | Grok全系列、GPT-4, DeepSeek, Midjourney等模型   | 有       | 无需注册  | ★★★★★  | 接近官网体验       |
 | [lanjing.ai](https://lanjing.ai)             | GPT-4, GPT-4o                | 有       | 无需注册  | ★★★★☆  | 详细AI使用教程     |
 | [cgn.lify.vip](https://cgn.lify.vip)         | GPT-4, GPT-3.5              | 有       | 无需注册  | ★★★★☆  | 备用选择           |
 
